@@ -11,4 +11,4 @@ A database ready-set, to analyze the possible correlation of daily weather patte
 * Since the plane crashes are documented by a city and state, we need to find our daily weather by 'nearest' city.
 * We create an ERD to map our Primary and Foriegn key for our data-sets.
 * Our final production database will be a relational database.
-* We will export our final two cleaned csv files from pandas to populate or relational database in pgadmin.
+* We will export our final two cleaned csv files from pandas to populate our relational database in pgadmin.
