@@ -10,7 +10,7 @@ A database ready-set, to analyze the possible correlation of daily weather patte
 * We aggregate our weather and plane crash data to only include data from 1980 to current.
 * Since the plane crashes are documented by a city and state, we need to find our daily weather by 'nearest' city.
 ----
-## We create an ERD to map our Primary and Foriegn key for our data-sets.
+## We create an ERD to map our Primary and Foreign key for our data-sets.
 ![images/QuickDBD-ETL_ERDiagram](images/QuickDBD-ETL_ERDiagram.png)
 
 * Our final production database will be a relational database in postgresql.
