@@ -6,9 +6,9 @@ A database ready-set, to analyze the possible correlation of daily weather patte
   * Airplane_Crashes_and_Fatalities_Since_1908_20190820105639.csv
   * A Weather API
 
-* We aggregate our plane crash data to only include the United States.
+* We clean our plane crash data to isolate the cities for weather comparison.
 * We aggregate our weather and plane crash data to only include data from 1980 to current.
 * Since the plane crashes are documented by a city and state, we need to find our daily weather by 'nearest' city.
 * We create an ERD to map our Primary and Foriegn key for our data-sets.
-* Our final production database will be a relational database.
+* Our final production database will be a relational database in postgresql.
 * We will export our final two cleaned csv files from pandas to populate our relational database in pgadmin.
