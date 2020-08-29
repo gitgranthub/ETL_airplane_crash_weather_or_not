@@ -4,7 +4,7 @@ A database ready-set, to analyze the possible correlation of daily weather patte
 ![airplane](images/aircraft-1499171_640.jpg)
 * We start with two data-sets:
   * Airplane_Crashes_and_Fatalities_Since_1908_20190820105639.csv
-  * A Weather API
+  * The OpenWeather API
 
 * We clean our plane crash data to isolate the cities for weather comparison.
 * We aggregate our weather and plane crash data to only include data from 1980 to current.
