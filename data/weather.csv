@@ -1,0 +1,31 @@
+date,city,temp,pressure,humidity,wind_speed,weather_summary,visibility,cloudiness
+11/28/1980,"Pecos City, TX",44.25,27.17,41,17,Fair,20,FALSE
+3/21/1980,"Houston, TX",57.89,30.22,33,21,Fair,15,FALSE
+6/12/1980,"Valley, NE",65.11,28.99,76,22,Mostly Cloudy,10,TRUE
+2/11/1981,"White Plains, NY",38.92,29.92,90,20,cloudy,10,TRUE
+1/11/1983,"Detroit, MI",32.18,29.1,76,16,cloudy,15,TRUE
+12/3/1990,"Romulus, MI",22.02,29.7,73,28,mostly cloudy,15,TRUE
+2/17/1991,"Cleveland, OH",23.34,29.12,49,17,cloudy,10,TRUE
+3/16/1991,"San Diego, CA",51.08,30.11,64,13,fair,20,FALSE
+3/31/1993,"Anchorage, AK",39.54,29.48,31,21,cloudy,60,TRUE
+7/12/1993,"Talladega, AL",55.91,29.35,79,9,cloudy,15,TRUE
+7/14/1994,"Hanalei, HI",72.85,29.91,67,12,cloudy,30,TRUE
+4/11/1996,"Cheyenne, WY",20.24,28.4,56,23,cloudy,23,TRUE
+7/6/1996,"Pensacola, FL",85.04,30.12,65,16,fair,10,FALSE
+11/19/1996,"Quincy, IL",32.68,28.2,70,13,mostly cloudy,15,TRUE
+4/10/1997,"Anchorage, AK",40.65,29.4,52,12,cloudy,90,TRUE
+2/16/2000,"Sacramento, California",52,29.99,90,12,Cloudy,10,TRUE
+12/17/2002,"Rockford, Illinois",30,29.42,96,12,Cloudy,8,TRUE
+5/28/2003,"Talkeetna, Alaska",63,29.9,56,13,Cloudy,10,TRUE
+1/13/2005,"Keene, New Hampshire",50,30.06,96,14,Cloudy,5,TRUE
+2/5/2006,"Watertown, Wisconson",31,29.07,70,16,Cloudy,10,TRUE
+6/8/2008,"Huntsville, Texas",85,29.64,65,21,Cloudy,10,TRUE
+1/15/2009,"New York, New York",22,30.38,70,17,Cloudy,10,TRUE
+8/9/2010,"Dillingham, AK",51.67,29.53,88,17,Cloudy,10,TRUE
+09/16/2011,"Reno, Nevada",36.61,25.5,31,22,Most Cloudy,10,TRUE
+12/7/2011,"Henderson, Nevada",39.29,28.04,23,7,Fair,10,FALSE
+3/8/2013,"Dillingham, Alaska",33.17,29.48,93,37,Cloudy,10,TRUE
+7/6/2013,"San Francisco, California",61.63,29.81,58,17,Fair,10,FALSE
+7/7/2013,"Soldotna, Alaksa",51.84,29.63,94,15,Cloudy,10,TRUE
+08/14/2013,"Birmingham, Alabama",75.18,29.34,84,10,Most Cloudy,10,TRUE
+10/4/2014,"Wichita Falls, Texas",59.83,29.06,26,15,Fair,10,FALSE
