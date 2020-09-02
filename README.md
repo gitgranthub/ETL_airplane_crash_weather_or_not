@@ -13,8 +13,8 @@ A database ready-set, to analyze the possible correlation of daily weather patte
 ---
 ## Cleaning
 * We used pandas to clean our plane crash data, to isolate the cities for weather comparison.
-* We needed to add a 'Year' and unique 'crash_id' column to out dataframe.
-* We converted the date from conventional utc to unix timestamp. (THANKS JAY!)
+* We needed to add a 'Year' and unique 'crash_id' column to our dataframe.
+* We converted the date from a utc date to unix timestamp. (THANKS JAY!)
 * We aggregated our weather and plane crash data to only include data from 1980 to current.
 * Since the plane crashes are documented by a city and state, we needed to find our daily weather by 'nearest' city/weather station.
 ----
